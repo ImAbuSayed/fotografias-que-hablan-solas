@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/fotografias-que-hablan-solas/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Fotografías que hablan solas](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/fotografias-que-hablan-solas/) |
+| **Get License** | [Secure Licensing Rights for Fotografías que hablan solas](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/fotografias-que-hablan-solas/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Mirando tus fotos que hablan solas en mi habitación
+> La noche está fría pero tú me subes la tensión
+> Ese brillo en tus ojos me quita la respiración
+> Baby, tú eres la dueña de toda mi atención
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
