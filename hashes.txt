@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Fotografías que hablan solas
+
+This log tracks the cryptographic history and versioning for the song **Fotografías que hablan solas** (fotografias-que-hablan-solas).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-14T03:57:25.251121 | `v1` | `84317cf9c91d379d6b0c9841e5385317ca7af39190b80f99cc7b602e3a25e53f` | `be4fd86dedb23c00c2fcbaab3949c2c00f856b65094c9234a8dbdef9ce9e830a` | `2026-06-14_fotografias-que-hablan-solas-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
